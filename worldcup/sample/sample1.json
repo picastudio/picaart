@@ -1,0 +1,1362 @@
+[
+  {
+    "id": 4500,
+    "team_one": {
+      "id": 626,
+      "name": "Portugal",
+      "logo": "img/1668849618_Portugal.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:20:18",
+      "updated_at": "2022-11-19 04:20:18"
+    },
+    "team_two": {
+      "id": 624,
+      "name": "Switzerland",
+      "logo": "img/1668849598_Switzerland.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:19:58",
+      "updated_at": "2022-11-19 04:19:58"
+    },
+    "venue": null,
+    "primary_headers": null,
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-12-07",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 68,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-05 19:11:30",
+    "updated_at": "2022-12-05 19:11:30",
+    "channel": {
+      "id": 68,
+      "name": "Channel 1",
+      "logo": "img/1621118206_Soccer Ball.jpg",
+      "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_480p30.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2019-10-22 13:46:48",
+      "updated_at": "2022-12-05 13:51:12"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4498,
+    "team_one": {
+      "id": 622,
+      "name": "Brazil",
+      "logo": "img/1668849581_Brazil.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:19:41",
+      "updated_at": "2022-11-19 04:19:41"
+    },
+    "team_two": {
+      "id": 644,
+      "name": "South Korea Highlights",
+      "logo": "img/1669301999_South Korea.png",
+      "league_id": 63,
+      "created_at": "2022-11-24 09:59:59",
+      "updated_at": "2022-11-24 09:59:59"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-12-06",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 328,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-04 16:28:05",
+    "updated_at": "2022-12-05 19:09:50",
+    "channel": {
+      "id": 328,
+      "name": "South Korea",
+      "logo": "img/1669302053_South Korea.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/5/51/242386/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-11-24 10:00:53",
+      "updated_at": "2022-12-05 19:09:25"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+      {
+        "id": 2686,
+        "game_id": 4498,
+        "stream": "http://ajiko.azureedge.net/scripts/NjY5NA==/NjY5NA==.m3u8",
+        "title": "Ultra HD",
+        "headers": "Origin: http://1stream.link;\r\nReferer: http://1stream.link/;",
+        "updated_at": "2022-12-05 13:42:31",
+        "created_at": "2022-12-05 13:42:31"
+      },
+      {
+        "id": 2687,
+        "game_id": 4498,
+        "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8",
+        "title": "HD Stable",
+        "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+        "updated_at": "2022-12-05 13:43:32",
+        "created_at": "2022-12-05 13:43:32"
+      },
+      {
+        "id": 2688,
+        "game_id": 4498,
+        "stream": "https://cdn3.reels2watch.com/hls/s1.m3u8",
+        "title": "480p Stream",
+        "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
+        "updated_at": "2022-12-05 13:44:56",
+        "created_at": "2022-12-05 13:44:56"
+      },
+      {
+        "id": 2689,
+        "game_id": 4498,
+        "stream": "https://mainbb.s3.amazonaws.com/ch7/ch7_240p30.m3u8",
+        "title": "Data Saver",
+        "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
+        "updated_at": "2022-12-05 14:02:10",
+        "created_at": "2022-12-05 13:44:59"
+      },
+      {
+        "id": 2691,
+        "game_id": 4498,
+        "stream": "http://cdn1.cyclingnews.live/abr/abr-stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDY6NDYKOjEyCiBQTSZoYXNoX3ZhbHVlPVRyVjNHVk5EWEF2bzNDYU1xZWFmbmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00",
+        "title": "720p Stream",
+        "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/05-wc-games-s1/?sport=soccer;",
+        "updated_at": "2022-12-05 13:47:23",
+        "created_at": "2022-12-05 13:47:23"
+      },
+      {
+        "id": 2692,
+        "game_id": 4498,
+        "stream": "http://slive.webhockey.xyz/hls/S1.m3u8",
+        "title": "Recommended",
+        "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn05-s1/;",
+        "updated_at": "2022-12-05 13:49:21",
+        "created_at": "2022-12-05 13:49:21"
+      },
+      {
+        "id": 2586,
+        "game_id": 4474,
+        "stream": "http://pitie.azureedge.net/scripts/NjUxOQ==/NjUxOQ==.m3u8",
+        "title": "Ultra HD",
+        "headers": "Origin: http://1stream.link;\r\nReferer: http://1stream.link/;",
+        "updated_at": "2022-11-28 13:31:12",
+        "created_at": "2022-11-28 13:31:12"
+      },
+      {
+        "id": 2587,
+        "game_id": 4474,
+        "stream": "https://wswanata.azureedge.net/live/FOX/playlist.m3u8",
+        "title": "HD Stable",
+        "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+        "updated_at": "2022-11-28 13:31:46",
+        "created_at": "2022-11-28 13:31:46"
+      },
+      {
+        "id": 2588,
+        "game_id": 4474,
+        "stream": "https://murthyneeraj231.s3.amazonaws.com/worldcup2_240.m3u8",
+        "title": "Data saver",
+        "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+        "updated_at": "2022-11-28 15:07:03",
+        "created_at": "2022-11-28 13:32:20"
+      }
+    ]
+  },
+  {
+    "id": 4499,
+    "team_one": {
+      "id": 614,
+      "name": "Spain",
+      "logo": "img/1668849494_Spain.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:18:14",
+      "updated_at": "2022-11-19 04:18:14"
+    },
+    "team_two": {
+      "id": 620,
+      "name": "Morocco",
+      "logo": "img/1668849549_Morocco.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:19:09",
+      "updated_at": "2022-11-19 04:19:09"
+    },
+    "venue": null,
+    "primary_headers": null,
+    "other_headers": null,
+    "time": "20:00:00",
+    "date": "2022-12-06",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 68,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-05 19:10:59",
+    "updated_at": "2022-12-05 19:10:59",
+    "channel": {
+      "id": 68,
+      "name": "Channel 1",
+      "logo": "img/1621118206_Soccer Ball.jpg",
+      "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_480p30.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2019-10-22 13:46:48",
+      "updated_at": "2022-12-05 13:51:12"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4496,
+    "team_one": {
+      "id": 602,
+      "name": "England",
+      "logo": "img/1668849367_England.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:16:07",
+      "updated_at": "2022-11-19 04:16:07"
+    },
+    "team_two": {
+      "id": 649,
+      "name": "Senegal Highlights",
+      "logo": "img/1669396194_senegal.png",
+      "league_id": 63,
+      "created_at": "2022-11-25 12:09:54",
+      "updated_at": "2022-11-25 12:09:54"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-12-05",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 76,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-04 07:09:49",
+    "updated_at": "2022-12-04 16:20:21",
+    "channel": {
+      "id": 76,
+      "name": "seee",
+      "logo": "img/1621118397_Soccer Ball.jpg",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/4/51/242290/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2019-11-02 08:49:03",
+      "updated_at": "2022-12-04 16:19:57"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4497,
+    "team_one": {
+      "id": 617,
+      "name": "Japan",
+      "logo": "img/1668849521_Japan.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:18:41",
+      "updated_at": "2022-11-19 04:18:41"
+    },
+    "team_two": {
+      "id": 638,
+      "name": "Croatia Highlights",
+      "logo": "img/1669198156_Croatia.png",
+      "league_id": 63,
+      "created_at": "2022-11-23 05:09:16",
+      "updated_at": "2022-11-23 05:09:16"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "20:00:00",
+    "date": "2022-12-05",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 75,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-04 16:28:01",
+    "updated_at": "2022-12-05 13:39:34",
+    "channel": {
+      "id": 75,
+      "name": "Channel 8",
+      "logo": "img/1621118384_Soccer Ball.jpg",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/5/42/242331/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2019-10-27 12:29:56",
+      "updated_at": "2022-12-05 13:38:53"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4494,
+    "team_one": {
+      "id": 606,
+      "name": "Argentina",
+      "logo": "img/1668849406_Argentina.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:16:46",
+      "updated_at": "2022-11-19 04:16:46"
+    },
+    "team_two": {
+      "id": 637,
+      "name": "Australia Highlights",
+      "logo": "img/1669141094_Australia.png",
+      "league_id": 63,
+      "created_at": "2022-11-22 13:18:14",
+      "updated_at": "2022-11-22 13:18:14"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-12-04",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 279,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-02 15:36:18",
+    "updated_at": "2022-12-04 07:07:56",
+    "channel": {
+      "id": 279,
+      "name": "Auss",
+      "logo": "img/1621118420_Soccer Ball.jpg",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/3/51/242215/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2020-07-16 16:16:47",
+      "updated_at": "2022-12-04 07:07:00"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4495,
+    "team_one": {
+      "id": 610,
+      "name": "France",
+      "logo": "img/1668849451_France.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:17:31",
+      "updated_at": "2022-11-19 04:17:31"
+    },
+    "team_two": {
+      "id": 636,
+      "name": "Poland Highlights",
+      "logo": "img/1669140306_Poland.png",
+      "league_id": 63,
+      "created_at": "2022-11-22 13:05:06",
+      "updated_at": "2022-11-22 13:05:06"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "20:00:00",
+    "date": "2022-12-04",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 77,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-04 07:09:41",
+    "updated_at": "2022-12-04 12:57:38",
+    "channel": {
+      "id": 77,
+      "name": "pol",
+      "logo": "img/1621118408_Soccer Ball.jpg",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/4/51/242264/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2019-11-03 18:52:18",
+      "updated_at": "2022-12-04 12:57:20"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4491,
+    "team_one": {
+      "id": 625,
+      "name": "Cameroon",
+      "logo": "img/1668849607_Cameron.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:20:07",
+      "updated_at": "2022-11-19 04:20:07"
+    },
+    "team_two": {
+      "id": 667,
+      "name": "Brazil Highlights",
+      "logo": "img/1670014896_Brazil.png",
+      "league_id": 63,
+      "created_at": "2022-12-02 16:01:36",
+      "updated_at": "2022-12-02 16:01:36"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-12-03",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 336,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-01 12:33:27",
+    "updated_at": "2022-12-02 16:04:59",
+    "channel": {
+      "id": 336,
+      "name": "brazilll",
+      "logo": "img/1670014986_Brazil.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/2/42/242103/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-12-02 16:03:06",
+      "updated_at": "2022-12-02 16:03:06"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4492,
+    "team_one": {
+      "id": 623,
+      "name": "Serbia",
+      "logo": "img/1668849590_Serbia.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:19:50",
+      "updated_at": "2022-11-19 04:19:50"
+    },
+    "team_two": {
+      "id": 661,
+      "name": "Switzerland Highlights",
+      "logo": "img/1669660128_Switzerland.png",
+      "league_id": 63,
+      "created_at": "2022-11-28 13:28:48",
+      "updated_at": "2022-11-28 13:28:48"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-12-03",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 337,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-01 12:34:36",
+    "updated_at": "2022-12-02 16:05:00",
+    "channel": {
+      "id": 337,
+      "name": "Switz",
+      "logo": "img/1670014997_Switzerland.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/2/42/242104/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-12-02 16:03:17",
+      "updated_at": "2022-12-02 16:03:17"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4493,
+    "team_one": {
+      "id": 601,
+      "name": "Netherlands",
+      "logo": "img/1668849358_Netherlands.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:15:58",
+      "updated_at": "2022-11-19 04:15:58"
+    },
+    "team_two": {
+      "id": 651,
+      "name": "USA Highlights",
+      "logo": "img/1669410082_USA.png",
+      "league_id": 63,
+      "created_at": "2022-11-25 16:01:22",
+      "updated_at": "2022-11-25 16:01:22"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "20:00:00",
+    "date": "2022-12-03",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 280,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-02 15:36:14",
+    "updated_at": "2022-12-03 12:07:34",
+    "channel": {
+      "id": 280,
+      "name": "USA",
+      "logo": "img/1621118432_Soccer Ball.jpg",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/3/42/242168/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2020-07-19 15:58:22",
+      "updated_at": "2022-12-03 12:06:58"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4487,
+    "team_one": {
+      "id": 614,
+      "name": "Spain",
+      "logo": "img/1668849494_Spain.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:18:14",
+      "updated_at": "2022-11-19 04:18:14"
+    },
+    "team_two": {
+      "id": 640,
+      "name": "Japan Highlights",
+      "logo": "img/1669218223_Japan.png",
+      "league_id": 63,
+      "created_at": "2022-11-23 10:43:43",
+      "updated_at": "2022-11-23 10:43:43"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-12-02",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 325,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-11-30 16:21:08",
+    "updated_at": "2022-12-01 16:37:54",
+    "channel": {
+      "id": 325,
+      "name": "Japan",
+      "logo": "img/1669218317_Japan.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/1/51/241966/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-11-23 10:45:17",
+      "updated_at": "2022-12-01 16:37:26"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4488,
+    "team_one": {
+      "id": 615,
+      "name": "Costa Rica",
+      "logo": "img/1668849504_Costa Rica.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:18:24",
+      "updated_at": "2022-11-19 04:18:24"
+    },
+    "team_two": {
+      "id": 659,
+      "name": "Germany Highlights",
+      "logo": "img/1669583284_Germany.png",
+      "league_id": 63,
+      "created_at": "2022-11-27 16:08:04",
+      "updated_at": "2022-11-27 16:08:04"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-12-02",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 304,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-11-30 16:22:49",
+    "updated_at": "2022-12-01 16:39:53",
+    "channel": {
+      "id": 304,
+      "name": "Ger",
+      "logo": "img/1665255722_amain.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/1/42/241968/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-10-08 15:02:02",
+      "updated_at": "2022-12-01 16:39:31"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+      {
+        "id": 2639,
+        "game_id": 4488,
+        "stream": "http://pitie.azureedge.net/scripts/NjYwNQ==/NjYwNQ==.m3u8",
+        "title": "Ultra HD",
+        "headers": "Origin: http://1stream.link;\r\nReferer: http://1stream.link/;",
+        "updated_at": "2022-12-01 13:22:37",
+        "created_at": "2022-12-01 13:22:37"
+      },
+      {
+        "id": 2640,
+        "game_id": 4488,
+        "stream": "https://hgdsxzv.azureedge.net/live/FS1/playlist.m3u8",
+        "title": "HD Stable",
+        "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+        "updated_at": "2022-12-01 13:23:07",
+        "created_at": "2022-12-01 13:23:07"
+      },
+      {
+        "id": 2641,
+        "game_id": 4488,
+        "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_240p30.m3u8",
+        "title": "Data Saver",
+        "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+        "updated_at": "2022-12-01 13:23:42",
+        "created_at": "2022-12-01 13:23:42"
+      },
+      {
+        "id": 2642,
+        "game_id": 4488,
+        "stream": "http://slive.webhockey.xyz/hls/S1.m3u8",
+        "title": "720p ITV",
+        "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwcfox-s1/;",
+        "updated_at": "2022-12-01 13:24:22",
+        "created_at": "2022-12-01 13:24:22"
+      }
+    ]
+  },
+  {
+    "id": 4489,
+    "team_one": {
+      "id": 629,
+      "name": "South Korea",
+      "logo": "img/1668849644_South Korea.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:20:44",
+      "updated_at": "2022-11-19 04:20:44"
+    },
+    "team_two": {
+      "id": 645,
+      "name": "Portugal Highlights",
+      "logo": "img/1669313284_Portugal.png",
+      "league_id": 63,
+      "created_at": "2022-11-24 13:08:04",
+      "updated_at": "2022-11-24 13:08:04"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "20:00:00",
+    "date": "2022-12-02",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 300,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-01 12:30:47",
+    "updated_at": "2022-12-02 13:11:20",
+    "channel": {
+      "id": 300,
+      "name": "Channel 14",
+      "logo": "img/1632061287_1631465699_download.jpg",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/2/42/242042/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2021-09-19 11:21:27",
+      "updated_at": "2022-12-02 13:11:11"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4490,
+    "team_one": {
+      "id": 628,
+      "name": "Uruguay",
+      "logo": "img/1668849635_Uruguay.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:20:35",
+      "updated_at": "2022-11-19 04:20:35"
+    },
+    "team_two": {
+      "id": 666,
+      "name": "Ghana Highlights",
+      "logo": "img/1670004726_Ghana.png",
+      "league_id": 63,
+      "created_at": "2022-12-02 13:12:06",
+      "updated_at": "2022-12-02 13:12:06"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "20:00:00",
+    "date": "2022-12-02",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 299,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-12-01 12:32:13",
+    "updated_at": "2022-12-02 13:12:23",
+    "channel": {
+      "id": 299,
+      "name": "Channel 13",
+      "logo": "img/1632061273_1631465699_download.jpg",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/2/42/242036/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2021-09-19 11:21:13",
+      "updated_at": "2022-12-02 13:11:39"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4482,
+    "team_one": {
+      "id": 609,
+      "name": "Poland",
+      "logo": "img/1668849441_Poland.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:17:21",
+      "updated_at": "2022-11-19 04:17:21"
+    },
+    "team_two": {
+      "id": 634,
+      "name": "Argentina Highlights",
+      "logo": "img/1669119691_Argentina.png",
+      "league_id": 63,
+      "created_at": "2022-11-22 07:21:31",
+      "updated_at": "2022-11-22 07:21:31"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-12-01",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 317,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-11-29 14:09:43",
+    "updated_at": "2022-11-30 16:07:07",
+    "channel": {
+      "id": 317,
+      "name": "Argentina",
+      "logo": "img/1665259120_amain.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/42/241820/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-10-08 15:58:40",
+      "updated_at": "2022-11-30 16:05:49"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4483,
+    "team_one": {
+      "id": 608,
+      "name": "Mexico",
+      "logo": "img/1668849432_Mexico.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:17:12",
+      "updated_at": "2022-11-19 04:17:12"
+    },
+    "team_two": {
+      "id": 654,
+      "name": "Saudi Arabia Highlights",
+      "logo": "img/1669477692_Saudi Arabia.png",
+      "league_id": 63,
+      "created_at": "2022-11-26 10:48:12",
+      "updated_at": "2022-11-26 10:48:12"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-12-01",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 332,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-11-29 14:11:47",
+    "updated_at": "2022-11-30 16:11:22",
+    "channel": {
+      "id": 332,
+      "name": "Saudi Arabia",
+      "logo": "img/1669477762_Saudi Arabia.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/42/241822/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-11-26 10:49:22",
+      "updated_at": "2022-11-30 16:11:02"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4486,
+    "team_one": {
+      "id": 620,
+      "name": "Morocco",
+      "logo": "img/1668849549_Morocco.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:19:09",
+      "updated_at": "2022-11-19 04:19:09"
+    },
+    "team_two": {
+      "id": 642,
+      "name": "Canada Highlights",
+      "logo": "img/1669237575_Canada.png",
+      "league_id": 63,
+      "created_at": "2022-11-23 16:06:15",
+      "updated_at": "2022-11-23 16:06:15"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "20:00:00",
+    "date": "2022-12-01",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 313,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-11-30 16:20:07",
+    "updated_at": "2022-12-01 12:21:05",
+    "channel": {
+      "id": 313,
+      "name": "Canada",
+      "logo": "img/1665258364_amain.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/1/42/241893/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-10-08 15:46:04",
+      "updated_at": "2022-12-01 12:20:32"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4477,
+    "team_one": {
+      "id": 603,
+      "name": "Iran",
+      "logo": "img/1668849376_Iran.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:16:16",
+      "updated_at": "2022-11-19 04:16:16"
+    },
+    "team_two": {
+      "id": 651,
+      "name": "USA Highlights",
+      "logo": "img/1669410082_USA.png",
+      "league_id": 63,
+      "created_at": "2022-11-25 16:01:22",
+      "updated_at": "2022-11-25 16:01:22"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-11-30",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 330,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-11-28 14:40:51",
+    "updated_at": "2022-11-29 16:37:04",
+    "channel": {
+      "id": 330,
+      "name": "USA",
+      "logo": "img/1669410310_USA.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/29/42/241730/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-11-25 16:05:10",
+      "updated_at": "2022-11-29 16:38:05"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4478,
+    "team_one": {
+      "id": 605,
+      "name": "Wales",
+      "logo": "img/1668849392_Wales.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:16:32",
+      "updated_at": "2022-11-19 04:16:32"
+    },
+    "team_two": {
+      "id": 631,
+      "name": "England Highlights",
+      "logo": "img/1669044017_Highlights.png",
+      "league_id": 63,
+      "created_at": "2022-11-21 10:20:17",
+      "updated_at": "2022-11-21 10:20:17"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-11-30",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 307,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-11-28 14:41:12",
+    "updated_at": "2022-11-29 16:32:17",
+    "channel": {
+      "id": 307,
+      "name": "England",
+      "logo": "img/1665257660_amain.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/29/42/241725/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-10-08 15:34:20",
+      "updated_at": "2022-11-29 16:32:29"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4479,
+    "team_one": {
+      "id": 613,
+      "name": "Tunisia",
+      "logo": "img/1668849485_Tunisia.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:18:05",
+      "updated_at": "2022-11-19 04:18:05"
+    },
+    "team_two": {
+      "id": 665,
+      "name": "France Highlights",
+      "logo": "img/1669827488_1668849451_France.png",
+      "league_id": 63,
+      "created_at": "2022-11-30 11:58:08",
+      "updated_at": "2022-11-30 11:58:08"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "20:00:00",
+    "date": "2022-11-30",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 335,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-11-29 13:58:35",
+    "updated_at": "2022-11-30 11:58:34",
+    "channel": {
+      "id": 335,
+      "name": "France",
+      "logo": "img/1669827352_f4206d3e162d49f72cd45a036c9c122520d35d22.jpg",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/42/241770/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-11-30 11:55:52",
+      "updated_at": "2022-11-30 11:55:52"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4480,
+    "team_one": {
+      "id": 611,
+      "name": "Australia",
+      "logo": "img/1668849460_Australia.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:17:40",
+      "updated_at": "2022-11-19 04:17:40"
+    },
+    "team_two": {
+      "id": 635,
+      "name": "Denmark Highlights",
+      "logo": "img/1669129490_Denmark.png",
+      "league_id": 63,
+      "created_at": "2022-11-22 10:04:50",
+      "updated_at": "2022-11-22 10:04:50"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+    "other_headers": null,
+    "time": "20:00:00",
+    "date": "2022-11-30",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 321,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-11-29 14:01:07",
+    "updated_at": "2022-11-30 12:00:45",
+    "channel": {
+      "id": 321,
+      "name": "Denmark",
+      "logo": "img/1669129588_Denmark.png",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/42/241771/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-11-22 10:06:28",
+      "updated_at": "2022-11-30 12:00:08"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+
+    ]
+  },
+  {
+    "id": 4474,
+    "team_one": {
+      "id": 626,
+      "name": "Portugal",
+      "logo": "img/1668849618_Portugal.png",
+      "league_id": 63,
+      "created_at": "2022-11-19 04:20:18",
+      "updated_at": "2022-11-19 04:20:18"
+    },
+    "team_two": {
+      "id": 662,
+      "name": "Uruguay Highlights",
+      "logo": "img/1669669988_Flag_of_MoroccoFlag_of_Morocco.png",
+      "league_id": 63,
+      "created_at": "2022-11-28 16:13:08",
+      "updated_at": "2022-11-28 16:13:08"
+    },
+    "venue": null,
+    "primary_headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+    "other_headers": null,
+    "time": "00:00:00",
+    "date": "2022-11-29",
+    "is_live": 0,
+    "rescriction": null,
+    "country_restriction": null,
+    "channel_id": 334,
+    "league_id": 63,
+    "highlights_url": null,
+    "additional_links": null,
+    "scores": "0 : 0",
+    "noti_img": null,
+    "created_at": "2022-11-27 12:20:37",
+    "updated_at": "2022-11-28 16:13:32",
+    "channel": {
+      "id": 334,
+      "name": "portug",
+      "logo": "img/1669669848_f4206d3e162d49f72cd45a036c9c122520d35d22.jpg",
+      "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/28/42/241633/360p.m3u8",
+      "allow_free": 0,
+      "is_live": 0,
+      "created_at": "2022-11-28 16:10:48",
+      "updated_at": "2022-11-28 16:10:48"
+    },
+    "league": {
+      "id": 63,
+      "name": "World Cup",
+      "icon": "img/1666095823_amain.png",
+      "updated_at": "2022-10-18 08:23:43",
+      "created_at": "2022-10-18 08:23:43"
+    },
+    "sources": [
+      {
+        "id": 2586,
+        "game_id": 4474,
+        "stream": "http://pitie.azureedge.net/scripts/NjUxOQ==/NjUxOQ==.m3u8",
+        "title": "Ultra HD",
+        "headers": "Origin: http://1stream.link;\r\nReferer: http://1stream.link/;",
+        "updated_at": "2022-11-28 13:31:12",
+        "created_at": "2022-11-28 13:31:12"
+      },
+      {
+        "id": 2587,
+        "game_id": 4474,
+        "stream": "https://wswanata.azureedge.net/live/FOX/playlist.m3u8",
+        "title": "HD Stable",
+        "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+        "updated_at": "2022-11-28 13:31:46",
+        "created_at": "2022-11-28 13:31:46"
+      },
+      {
+        "id": 2588,
+        "game_id": 4474,
+        "stream": "https://murthyneeraj231.s3.amazonaws.com/worldcup2_240.m3u8",
+        "title": "Data saver",
+        "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+        "updated_at": "2022-11-28 15:07:03",
+        "created_at": "2022-11-28 13:32:20"
+      },
+      {
+        "id": 2589,
+        "game_id": 4474,
+        "stream": "http://slive.webhockey.xyz/hls/S1.m3u8",
+        "title": "720p Streams",
+        "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/worldfc28/;",
+        "updated_at": "2022-11-28 13:32:54",
+        "created_at": "2022-11-28 13:32:54"
+      }
+    ]
+  }
+]
