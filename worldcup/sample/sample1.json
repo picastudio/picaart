@@ -3,7 +3,7 @@
     "id": 4500,
     "team_one": {
       "id": 626,
-      "name": "Portugal",
+      "name": "Croatia",
       "logo": "img/1668849618_Portugal.png",
       "league_id": 63,
       "created_at": "2022-11-19 04:20:18",
@@ -11,7 +11,7 @@
     },
     "team_two": {
       "id": 624,
-      "name": "Switzerland",
+      "name": "Brazil",
       "logo": "img/1668849598_Switzerland.png",
       "league_id": 63,
       "created_at": "2022-11-19 04:19:58",
@@ -51,7 +51,78 @@
       "created_at": "2022-10-18 08:23:43"
     },
     "sources": [
-
+      {
+        "id": 2697,
+        "game_id": 4500,
+        "stream": "http://d1lmxu7bisy5j3.cloudfront.net/scripts/NjcxMQ==/NjcxMQ==.m3u8",
+        "title": "Ultra HD",
+        "headers": "Origin: http://1stream.link;\r\nReferer: http://1stream.link/;",
+        "updated_at": "2022-12-06 13:04:23",
+        "created_at": "2022-12-06 13:04:23"
+      },
+      {
+        "id": 2698,
+        "game_id": 4500,
+        "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8",
+        "title": "HD Stable",
+        "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+        "updated_at": "2022-12-06 13:05:43",
+        "created_at": "2022-12-06 13:05:43"
+      },
+      {
+        "id": 2699,
+        "game_id": 4500,
+        "stream": "https://mainbb.s3.amazonaws.com/ch7/ch7_240p30.m3u8",
+        "title": "DATA Saver",
+        "headers": "origin: https://nflseasonpass.com;\r\nreferer: https://nflseasonpass.com/;",
+        "updated_at": "2022-12-06 13:11:46",
+        "created_at": "2022-12-06 13:06:39"
+      },
+      {
+        "id": 2700,
+        "game_id": 4500,
+        "stream": "http://cdn2.cyclingnews.live/abr/abr-stream1/hls/stream1_720p/playlist.m3u8?nimblesessionid=15168366&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDY6MDYKOjU0CiBQTSZoYXNoX3ZhbHVlPWZkeEZZSkNWcTZaQTdrbTNCQnN0OEE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00",
+        "title": "720p Stream",
+        "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/06-wc-games-s1/?sport=soccer;",
+        "updated_at": "2022-12-06 13:08:33",
+        "created_at": "2022-12-06 13:08:33"
+      },
+      {
+        "id": 2697,
+        "game_id": 4500,
+        "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/5/51/242386/360p.m3u8",
+        "title": "Ultra HD",
+        "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+        "updated_at": "2022-12-06 13:04:23",
+        "created_at": "2022-12-06 13:04:23"
+      },
+      {
+        "id": 2698,
+        "game_id": 4500,
+        "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/6/51/242454/360p.m3u8",
+        "title": "HD Stable",
+        "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+        "updated_at": "2022-12-06 13:05:43",
+        "created_at": "2022-12-06 13:05:43"
+      },
+      {
+        "id": 2699,
+        "game_id": 4500,
+        "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/5/51/242386/360p.m3u8",
+        "title": "DATA Saver",
+        "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+        "updated_at": "2022-12-06 13:11:46",
+        "created_at": "2022-12-06 13:06:39"
+      },
+      {
+        "id": 2700,
+        "game_id": 4500,
+        "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/1/51/241966/360p.m3u8",
+        "title": "720p Stream",
+        "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+        "updated_at": "2022-12-06 13:08:33",
+        "created_at": "2022-12-06 13:08:33"
+      }
     ]
   },
   {
