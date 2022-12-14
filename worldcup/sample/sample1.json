@@ -61,63 +61,9 @@
         "created_at": "2022-12-06 13:04:23"
       },
       {
-        "id": 2698,
-        "game_id": 4500,
-        "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/9/51/242609/360p.m3u8",
-        "title": "HD Stable",
-        "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
-        "updated_at": "2022-12-06 13:05:43",
-        "created_at": "2022-12-06 13:05:43"
-      },
-      {
-        "id": 2699,
-        "game_id": 4500,
-        "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/9/51/242573/360p.m3u8",
-        "title": "DATA Saver",
-        "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
-        "updated_at": "2022-12-06 13:11:46",
-        "created_at": "2022-12-06 13:06:39"
-      },
-      {
-        "id": 2700,
-        "game_id": 4500,
-        "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/6/42/242411/360p.m3u8",
-        "title": "720p Stream",
-        "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
-        "updated_at": "2022-12-06 13:08:33",
-        "created_at": "2022-12-06 13:08:33"
-      },
-      {
-        "id": 2697,
-        "game_id": 4500,
-        "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/5/51/242386/360p.m3u8",
-        "title": "Ultra HD",
-        "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
-        "updated_at": "2022-12-06 13:04:23",
-        "created_at": "2022-12-06 13:04:23"
-      },
-      {
-        "id": 2698,
-        "game_id": 4500,
-        "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/5/42/242331/360p.m3u8",
-        "title": "HD Stable",
-        "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
-        "updated_at": "2022-12-06 13:05:43",
-        "created_at": "2022-12-06 13:05:43"
-      },
-      {
         "id": 2588,
         "game_id": 4474,
         "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/13/42/242859/360p.m3u8",
-        "title": "Data saver",
-        "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-        "updated_at": "2022-11-28 15:07:03",
-        "created_at": "2022-11-28 13:32:20"
-      },
-      {
-        "id": 2588,
-        "game_id": 4474,
-        "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/4/51/242264/360p.m3u8",
         "title": "Data saver",
         "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
         "updated_at": "2022-11-28 15:07:03",
