@@ -95,6 +95,14 @@
       "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/Argentina-s1/?sport=soccer;",
       "updated_at": "2022-12-06 09:27:27",
       "created_at": "2022-12-06 09:27:27"
+    },{
+      "id": 2699,
+      "game_id": 4500,
+      "stream": "https://weak.weakcdn.xyz/live/TSN1/rdr.m3u8",
+      "title": "DATA Saver",
+      "headers": "origin: https://weakstream.net;\r\nreferer: https://weakstream.net/;",
+      "updated_at": "2022-12-06 13:11:46",
+      "created_at": "2022-12-06 13:06:39"
     }
     ]
   },
