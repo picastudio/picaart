@@ -1,8 +1,8 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/picastudio/picaart/master/ad/icon.png",
-      "cover": "https://raw.githubusercontent.com/picastudio/picaart/master/ad/graphic.png",
+      "icon": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/graphic.png",
       "appName": "Sweet Beauty Camera",
       "description": "The new way to enjoy your selfie pictures this all new photo editor gives you a special chance to try an interesting cute filters",
       "package": "sweet.beauty.camera",
@@ -10,8 +10,8 @@
       "actionText": "VISIT APP",
       "type": "app"
     },{
-      "icon": "https://raw.githubusercontent.com/picastudio/picaart/master/ad/icon1.png",
-      "cover": "https://raw.githubusercontent.com/picastudio/picaart/master/ad/graphic1.png",
+      "icon": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/graphic1.png",
       "appName": "Body Shape & Beauty",
       "description": "Body Shape & Beauty can help you reshape body curves to get the slim body, perfect figure, thin waist, long legs, abs.",
       "package": "body.shape.beauty",
