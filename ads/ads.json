@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/graphic.png",
-      "appName": "Sweet Beauty Camera",
-      "description": "The new way to enjoy your selfie pictures this all new photo editor gives you a special chance to try an interesting cute filters",
-      "package": "sweet.beauty.camera",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
       "icon": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/graphic1.png",
       "appName": "Body Shape & Beauty",
       "description": "Body Shape & Beauty can help you reshape body curves to get the slim body, perfect figure, thin waist, long legs, abs.",
       "package": "body.shape.beauty",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
+      "icon": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/graphic.png",
+      "appName": "Filter for TikTok",
+      "description": "The new way to enjoy your selfie pictures this all new photo editor gives you a special chance to try an interesting cute filters",
+      "package": "id.photo.effect.tiktok",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
