@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/picastudio/picaart/master/ads/graphic1.png",
-      "appName": "Body Shape & Beauty",
-      "description": "Body Shape & Beauty can help you reshape body curves to get the slim body, perfect figure, thin waist, long legs, abs.",
-      "package": "body.shape.beauty",
+      "appName": "Filters for Sweet Camera",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "sweet.selfie.filters.snap",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
